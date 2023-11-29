@@ -1,9 +1,9 @@
 # TikTok Clone
 
-![TikTok Clone output](./tiktok-clone.gif)
+![TikTok Clone Output](./tiktok-clone.gif)
 
 > [!IMPORTANT] 
-> Make sure to replace your Pexels API key in `src/App.js`.
+> Make sure to replace your [Pexels API key](https://www.pexels.com/api/new/) in `src/App.js`.
 
 ## Setup
 
